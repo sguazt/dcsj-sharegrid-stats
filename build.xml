@@ -144,8 +144,8 @@
 				<param name="-postfixpackage"/>
 				<param name="-nodefontsize" value="9"/>
 				<param name="-nodefontpackagesize" value="7"/>
-				<param name="-link" value="http://java.sun.com/javase/6/docs/guide/javadoc/doclet/spec"/>
-				<param name="-link" value="http://java.sun.com/javase/6/docs/api"/>
+                <param name="-link" value="http://docs.oracle.com/javase/7/docs/guide/javadoc/doclet/"/>
+                <param name="-link" value="http://docs.oracle.com/javase/7/docs/api/"/>
 			</doclet>
 		</javadoc>
 
